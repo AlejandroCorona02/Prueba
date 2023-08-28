@@ -1,5 +1,3 @@
-Esto es un ejemplo de archivo para el programa, ahora modificado despues de usar git
+Esto es un ejemplo de archivo para el programa
 
-Quiero ver los cambios par despues de saltarse una linea
-
-Cambio radical del archivo para corroborar historiade este
+Cambiamos por completo el original
