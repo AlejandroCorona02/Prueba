@@ -3,5 +3,6 @@
 
 * Creado Por Alejandro
 * El curso en su mayoria es de codigos html para que sea mas comprensible sus cambios
+* Curso bastante corot en tiempo
 
 Pero para el mero uso de las diferentes cosas que se pueden lograr con esto te invito que vayas a ver el repo [**aqui**](https://www.youtube.com/watch?v=BtLSaxRnIhc&ab_channel=Linwi "aqui"), que aun sin comentarios los commits van tratados de explicar
